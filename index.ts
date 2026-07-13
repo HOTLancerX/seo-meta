@@ -57,7 +57,7 @@ export function register() {
             label: "SEO Meta",
             icon: "solar:chart-square-bold",
             slug: "seo-meta",
-            parent: "",
+            parent: "settings",
             position: 55,
         },
     ], PLUGINS.nx);
