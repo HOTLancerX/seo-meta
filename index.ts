@@ -3,7 +3,7 @@ import SeoSettingsPage from "./settings/SeoSettingsPage";
 import SEO from "./ui/SEO";
 
 export const PLUGINS: PluginMeta = {
-    nx: "com.system.seo-meta",
+    nx: "seo-meta",
     name: "seo-meta",
     version: "1.0.0",
     description: "Advanced SEO plugin — AI-powered meta title, description, keywords, and OG image for posts, categories, and users. Like Yoast SEO for WordPress.",
